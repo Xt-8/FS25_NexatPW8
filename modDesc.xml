@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="97">
+    <author>Xt8</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>NEXAT PW 8</en>
+        <de>NEXAT PW 8</de>
+    </title>
+    <description>
+        <en>
+            <![CDATA[ 
+Description: Allows the Nexat Nexco (Nexat DLC) to connect to the MacDon PW 8 (MacDon DLC).
+                
+            ]]>
+        </en>
+        <de>
+            <![CDATA[ 
+Beschreibung: Ermöglicht die Verbindung des Nexat Nexco (Nexat DLC) mit dem MacDon PW 8 (MacDon DLC).
+
+            ]]>
+        </de>
+    </description>
+    <iconFilename>icon_nexatPW8.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="registerNexatPW8.lua" />
+    </extraSourceFiles>
+</modDesc>
